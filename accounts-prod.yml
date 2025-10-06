@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to CapgeBank accounts related Production APIs"
+  message: "Welcome to CapgeBank accounts related PROD APIs"
   contactDetails:
     name: "Ryan Sin - Product Owner"
     email: "{cipher}08f342ca5fd931c16be1d697f0ee72a82f46f5ee1dd0436210ecb0eacc8572d0"
