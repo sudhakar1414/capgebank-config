@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to CapgeBank loans related Production APIs"
+  message: "Welcome to CapgeBank loans related PROD APIs"
   contactDetails:
     name: "Ryan Sin - Product Owner"
     email: "ryan@gmail.com"
