@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to CapgeBank cards related PROD APIs"
+  message: "Welcome to CapgeBank cards related Production APIs"
   contactDetails:
     name: "Ryan Sin - Product Owner"
     email: "ryan@gmail.com"
